@@ -14,13 +14,12 @@ Welcome to my website for the Distributed Research Apprenticeships for Master’
   <img width="300" height="300" src="https://github.com/CharlotteGAnderson/CharlotteGAnderson.github.io/assets/171305597/142519dc-5aac-4bdb-9ba9-1acd33c95b57">
 </p>
 
-
 ## About My Advisor
 
 Dr. Nazli Siasi is an assistant professor at the School of Computing in the College of Computing and Digital Media. Before joining DePaul, she worked as an assistant professor of cybersecurity at Christopher Newport University in Virginia. She earned her Ph.D. and M.S. degrees in electrical engineering with focus on networks and security from the University of South Florida in 2020. Prior to that she received her M.S. degree from Amirkabir University of Technology and B.S. degree from Tabriz University. Dr. Siasi's [research]([url](https://scholar.google.com/citations?user=GckXkacAAAAJ&hl=en)) interests include edge/fog computing, network virtualization, blockchain, and cybersecurity.
 
 <p align="center">
-  <img width="300" height="300" src=https://github.com/CharlotteGAnderson/CharlotteGAnderson.github.io/assets/171305597/a7624955-9c1b-40f4-aa4c-adb3f483396a">
+  <img width="300" height="300" src="https://github.com/CharlotteGAnderson/CharlotteGAnderson.github.io/assets/171305597/a7624955-9c1b-40f4-aa4c-adb3f483396a">
 </p>
 
 ## About My Project
