@@ -11,8 +11,9 @@ title: DREAM Project Site
 Welcome to my website for the Distributed Research Apprenticeships for Master’s (DREAM) program! I'm Charlotte Anderson, currently pursuing a Master’s degree in data science at DePaul University, with an expected graduation in June 2024. My research interests encompass fog computing, machine learning, and computational methods. Through the DREAM program, I am gaining valuable hands-on research experience. Previously, I earned a bachelor’s degree in finance from DePaul University in 2023, where I also gained experience in accounting, corporate finance, and equity research. I seamlessly transitioned to my master's degree immediately after graduating. 
 
 <p align="center">
-  <img width="300" height="300" src=https://github.com/CharlotteGAnderson/CharlotteGAnderson.github.io/assets/171305597/142519dc-5aac-4bdb-9ba9-1acd33c95b57">
+  <img width="300" height="300" src="https://github.com/CharlotteGAnderson/CharlotteGAnderson.github.io/assets/171305597/142519dc-5aac-4bdb-9ba9-1acd33c95b57">
 </p>
+
 
 ## About My Advisor
 
