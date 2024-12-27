@@ -27,7 +27,7 @@ Dr. Nazli Siasi is an assistant professor at the School of Computing in the Coll
 This project aims to develop a priority-based user request management system using fog computing and machine learning techniques. By integrating machine learning models, the system will dynamically prioritize user requests based on their criticality, ensuring efficient resource allocation and timely responses. Embedding techniques will be used to transform textual data into numerical vectors, facilitating clustering and classification of user requests. The proposed solution will enhance the performance of fog computing environments, particularly for critical applications such as autonomous vehicles, healthcare monitoring, and smart cities.
 
 *code will not be uploaded until project completion* 
-[My Final Report](files/finalreport.pdf)
+[My Final Report](files/finalreport.pdf),[Code](files/code.pdf)
 
 ## My Blog
 
